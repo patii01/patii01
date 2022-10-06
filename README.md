@@ -1,4 +1,8 @@
-# 💫 About Me:
+<h1 align='center'>
+  Hi there 👋 I'm Patricia Costa 👨‍💻
+</h1>
+
+## 💫 About Me:
 I have a degree in Computer Engineering and I'm a student on a master's degree in Engineering and Data Science at the University of Coimbra.
 
 ## More About Me
