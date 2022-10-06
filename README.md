@@ -1,6 +1,11 @@
 # 💫 About Me:
 I have a degree in Computer Engineering and I'm a student on a master's degree in Engineering and Data Science at the University of Coimbra.
 
+## More About Me
+Nationality: portuguese
+Age: 21 years
+From: Maceda, Ovar, Portugal
+
 ### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
