@@ -30,8 +30,5 @@ I have a degree in Computer Engineering and I'm a student on a master's degree i
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patii01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" >
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=patii01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=patii01&icon=0&color=10)](https://visitcount.itsvg.in)
