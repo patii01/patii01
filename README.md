@@ -78,24 +78,3 @@ I have a degree in Computer Engineering and I'm a student on a master's degree i
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=patii01&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
