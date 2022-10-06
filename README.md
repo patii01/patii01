@@ -3,7 +3,9 @@ I have a degree in Computer Engineering and I'm a student on a master's degree i
 
 ## More About Me
 Nationality: portuguese
+
 Age: 21 years
+
 From: Maceda, Ovar, Portugal
 
 ### ✍️Quote
