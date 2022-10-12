@@ -29,6 +29,3 @@ I have a degree in Computer Engineering and I'm a student on a master's degree i
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patii01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" >
 </p>
-
----
-[![](https://visitcount.itsvg.in/api?id=patii01&icon=0&color=10)](https://visitcount.itsvg.in)
